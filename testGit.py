@@ -1,2 +1,1 @@
-fdsafsadf
-fsdf
+print("Hello World")
